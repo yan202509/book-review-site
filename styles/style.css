@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #FFF1CB;
+}
+
+h1 {
+    text-decoration: underline;
+    text-align: center;
+}
+
+h2 {
+    text-decoration: underline; 
+    text-align: center;
+    color: red;
+}
+
+header {
+    border: 1rem solid;
+    background-color: #7B542F;
+}
+
+nav ul li:hover {
+    background-color: white;
+}
+
+
+
+ul {
+    list-style-type: none; 
+}
+
+footer {
+    border: 1rem solid;
+    background-color: #7B542F;
+}
+
+.emphasize {
+    font-style: italic;
+    color: black;
+}

@@ -1,0 +1,25 @@
+body {
+    background-color: white;
+}
+
+
+section {
+    /* background-color: black; */
+}
+
+.book-reviews {
+    background-color: lightgray;  
+    line-height: 150%;      
+}
+
+
+#book-review-1 {
+    line-height: 150%;
+    color: black;
+}
+
+
+#book-review-2 {
+    line-height: 150%;
+    color: black;
+}
